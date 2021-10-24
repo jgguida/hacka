@@ -14,10 +14,10 @@
 </p>
 <p>
  <h4>Para rodar</h4>
- rode {yarn} dentro dos respectivos diretórios
+ **rode {yarn} dentro dos respectivos diretórios
  {yarn dev} para iniciar o sistema backend
  e
- {yarn start} para iniciar o frontend
+ {yarn start} para iniciar o frontend**
 </p>
 
 <p>
