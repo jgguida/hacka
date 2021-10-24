@@ -12,6 +12,13 @@
 
   
 </p>
+<p>
+ <h4>Para rodar</h4>
+ rode yarn dentro dos respectivos diretórios
+ yarn dev para iniciar o sistema backend
+ e
+ yarn start para iniciar o frontend
+</p>
 
 <p>
 Um site e aplicativo intuitivos, que funcionarão como uma vitrine de negócios, onde a comunidade local poderá se cadastrar tanto como consumidor de produtos, serviços e até fornecedora dos mesmos. 
