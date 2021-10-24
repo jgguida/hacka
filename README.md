@@ -17,7 +17,7 @@
  **rode {yarn} dentro dos respectivos diretórios
  {yarn dev} para iniciar o sistema backend
  e
- {yarn start} para iniciar o frontend**
+ {yarn start} para iniciar o frontend
 </p>
 
 <p>
