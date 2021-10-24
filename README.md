@@ -6,3 +6,9 @@
   ☕ Code and coffee
 </h4>
 
+<p align="center">
+  <img alt="GitHub language count" src="./frontend/src/assets/dash.png">
+  <img alt="GitHub language count" src="./frontend/src/assets/idea.png">
+
+  
+</p>
